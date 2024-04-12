@@ -1,0 +1,44 @@
+*
+{
+    margin:0px;
+    padding:0px;
+    font-family: sans-serif;
+    font-size: 1.1em;
+}
+body
+{
+    display: flex;
+    justify-content: center;
+}
+.navbar
+{
+    background-color: rgb(107, 28, 255);
+    height:50px;
+    width:100%;
+
+}
+.navbarButtons
+{
+    color: rgb(255, 255, 255);
+    border-left: 2px solid white;
+    padding: 5px;
+
+}
+.navbarContent
+{
+    
+    outline: transparent;
+    float: right;
+    padding: 15px;
+
+}
+.centerContent
+{
+    min-height: 100vh;
+}
+.magdy
+{
+    color: rgb(255, 255, 255);
+    float: left;
+    padding: 10px;
+}
